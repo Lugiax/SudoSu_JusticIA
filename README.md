@@ -6,10 +6,10 @@
 SudoSu
 
 **Integrantes**
-* Ernesto Castillo
-* Alan 
+* Ernesto Jesus Castillo Varguez
+* Alan Gabriel Romero Pacheco
 * Bridget
-* Carlos
+* Héctor Carlos Aranda Martínez
 
 
 
