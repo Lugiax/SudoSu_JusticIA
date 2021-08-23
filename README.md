@@ -8,7 +8,7 @@ SudoSu
 **Integrantes**
 * Ernesto Jesus Castillo Varguez
 * Alan Gabriel Romero Pacheco
-* Bridget
+* Bridget Parrot
 * Héctor Carlos Aranda Martínez
 
 
@@ -42,7 +42,7 @@ El proceidmiento que proponemos se compone de la unión de la propuesta de soluc
 
 1. Hacer un preprocesamiento (limpieza) del texto, para eliminar saltos de línea, signos de puntuación o espacios innecesarios. 
 2. Utilizando expresiones regulares extraer información con patrones conocidos sobre el texto (folios, fechas, nombres).
-3. Entrenar un modelo tipo Transformer para reconocer nombres, lugares, cargos y organizaciones con las bases de datos entregadas. Con esto se espera encontrar entidades que no se encuentran en la base de datos, pero sí en los documentos.
+3. Hacer uso de la biblioteca Spacy para extraer lugares, cargos y organizaciones con las bases de datos entregadas. Con esto se espera encontrar entidades que no se encuentran en la base de datos, pero sí en los documentos.
 4. De cada documento se extraerán las entidades de interés que se almacenarán en un archivo con extensión csv.
 
 Al completar la etapa de extracción de texto e identificación de entidades de interés se espera que estas sean representativas para realizar una inferencia con poco sesgo, dado que el conjunto de datos con los que se cuenta es una muestra pequeña del universo de expedientes y fichas existentes.
